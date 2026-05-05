@@ -1,0 +1,23 @@
+{
+  "bags": [],
+  "orders": [
+    {
+      "customerName": "Kavindu Thilan",
+      "email": "kavinduthilan4@gmail.com",
+      "address": "rassagala,balangoda",
+      "items": [
+        {
+          "bagId": "1777405538994",
+          "name": "customer",
+          "price": 120,
+          "quantity": 1,
+          "imageUrl": "/uploads/1777405538974-banner2.jpg.jpeg"
+        }
+      ],
+      "total": 120,
+      "id": "1777405557152",
+      "status": "pending",
+      "createdAt": "2026-04-28T19:45:57.152Z"
+    }
+  ]
+}
